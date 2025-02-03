@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://fonts.coollabs.io",
+  site: "https://jata.app",
   vite: {
     optimizeDeps: {
       include: ['lodash.get', 'lodash.isequal', 'lodash.clonedeep']

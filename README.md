@@ -1,1 +1,1 @@
-Landing page of [fonts.coollabs.io](https://fonts.coollabs.io).
+Landing page of [jata.app](https://jata.app).
